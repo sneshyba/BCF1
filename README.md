@@ -1,3 +1,3 @@
 # BCF1
-Simulation faceted ice growth
+Simulation of faceted ice growth with a quasi liquid layer in one dimension
 Neshyba and Adams
